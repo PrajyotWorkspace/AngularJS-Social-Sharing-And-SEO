@@ -1,0 +1,8 @@
+C:\Users\BEN\Downloads\PhantomJs\SourceCode\PhantomJS.WS\bin\Debug\PhantomJS.WS.exe.config
+C:\Users\BEN\Downloads\PhantomJs\SourceCode\PhantomJS.WS\bin\Debug\PhantomJS.WS.exe
+C:\Users\BEN\Downloads\PhantomJs\SourceCode\PhantomJS.WS\bin\Debug\PhantomJS.WS.pdb
+C:\Users\BEN\Downloads\PhantomJs\SourceCode\PhantomJS.WS\obj\Debug\PhantomJS.WS.ProjectInstaller.resources
+C:\Users\BEN\Downloads\PhantomJs\SourceCode\PhantomJS.WS\obj\Debug\PhantomJSWS.csproj.GenerateResource.Cache
+C:\Users\BEN\Downloads\PhantomJs\SourceCode\PhantomJS.WS\obj\Debug\PhantomJS.WS.exe
+C:\Users\BEN\Downloads\PhantomJs\SourceCode\PhantomJS.WS\obj\Debug\PhantomJS.WS.pdb
+C:\Users\BEN\Downloads\PhantomJs\SourceCode\PhantomJS.WS\obj\Debug\PhantomJSWS.csprojResolveAssemblyReference.cache

@@ -1,0 +1,33 @@
+﻿Installing assembly 'C:\Users\BEN\Desktop\Publich\PhantomJS.WS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\BEN\Desktop\Publich\PhantomJS.WS.InstallLog
+   assemblypath = C:\Users\BEN\Desktop\Publich\PhantomJS.WS.exe
+Rolling back assembly 'C:\Users\BEN\Desktop\Publich\PhantomJS.WS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\BEN\Desktop\Publich\PhantomJS.WS.InstallLog
+   assemblypath = C:\Users\BEN\Desktop\Publich\PhantomJS.WS.exe
+Installing assembly 'C:\Users\BEN\Desktop\Publich\PhantomJS.WS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\BEN\Desktop\Publich\PhantomJS.WS.InstallLog
+   assemblypath = C:\Users\BEN\Desktop\Publich\PhantomJS.WS.exe
+Rolling back assembly 'C:\Users\BEN\Desktop\Publich\PhantomJS.WS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\BEN\Desktop\Publich\PhantomJS.WS.InstallLog
+   assemblypath = C:\Users\BEN\Desktop\Publich\PhantomJS.WS.exe
+Installing assembly 'C:\Users\BEN\Desktop\Publich\PhantomJS.WS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\BEN\Desktop\Publich\PhantomJS.WS.InstallLog
+   assemblypath = C:\Users\BEN\Desktop\Publich\PhantomJS.WS.exe
+Installing service PhantomJSWS...
+Service PhantomJSWS has been successfully installed.
+Creating EventLog source PhantomJSWS in log Application...
+Committing assembly 'C:\Users\BEN\Desktop\Publich\PhantomJS.WS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\BEN\Desktop\Publich\PhantomJS.WS.InstallLog
+   assemblypath = C:\Users\BEN\Desktop\Publich\PhantomJS.WS.exe
